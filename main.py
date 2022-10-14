@@ -176,5 +176,5 @@ bot.add_cog(main_cog(bot))
 bot.add_cog(music_cog(bot))
 
 #start the bot with our token
-#bot.run("Seu_Token_Aqui")
-bot.run("ODg2NzgyMzE3Mjg3MzA5MzYy.YT6mZA.fJ5LnlDU2VbHMgP382bGq58kALI")
+bot.run("Seu_Token_Aqui")
+
